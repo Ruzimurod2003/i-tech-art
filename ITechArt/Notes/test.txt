@@ -1,0 +1,4 @@
+﻿Mary    32      Markiza Cat     Pushistik       Cat     Belka   Dog
+Gary    18      Norm    Dog     -				-       -       -
+Mike    24      Bert    Parrot  Gosha			Parrot  Milka   Cat
+Alex    25      Casper  Cat     Charli			Dog     -       -
